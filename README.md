@@ -3,6 +3,8 @@
 ## Lab Overview
 In this lab, you will configure IPv6 addressing and static routes on a network that already has IPv4 configurations. The focus will be on using the **EUI-64** format to generate interface IDs, enabling IPv6 on router interfaces, and setting up static routes to ensure connectivity between PCs.
 
+<img src= "https://github.com/ro-drick/IPv6-Configuration-Part-2/blob/main/ipv6-2.PNG">
+
 ### Topology Details:
 - **Router 1 (R1):** Cisco 2911
 - **Router 2 (R2):** Cisco 2911
